@@ -1,0 +1,21 @@
+{
+  "name": "serene-dark-theme-yigaue",
+  "displayName": "Serene Dark Theme",
+  "description": "Work in the environment you love",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Serene Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Serene Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
