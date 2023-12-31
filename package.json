@@ -1,21 +1,37 @@
 {
-  "name": "serene-dark-theme-yigaue",
-  "displayName": "Serene Dark Theme",
-  "description": "Work in the environment you love",
-  "version": "0.0.1",
+  "name": "dukana",
+  "displayName": "Dukana Theme",
+  "description": "Dark theme for the work you love",
+  "version": "1.0.0",
+  "icon": "images/dukana-icon.png",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/Yigaue/vscode-dukana.git"
+	},
   "engines": {
     "vscode": "^1.85.0"
   },
   "categories": [
-    "Themes"
+    "Themes",
+    "Other"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Serene Dark Theme",
+        "label": "Dukana Theme (Royal)",
         "uiTheme": "vs-dark",
-        "path": "./themes/Serene Dark Theme-color-theme.json"
+        "path": "./themes/dukana-theme-color-theme.json"
       }
     ]
-  }
+  },
+	"publisher": "Gospel Lekia",
+	"keywords": [
+		"Theme",
+		"Dark Theme"
+	],
+  "galleryBanner": {
+		"color": "#22131d",
+		"theme": "dark"
+	}
 }
