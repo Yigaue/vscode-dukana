@@ -72,7 +72,7 @@ Be nice.
 
 ## Credits
 
-Duakana was inspired by the Dukana a fictitious town in the novel [Sozaboy](https://www.goodreads.com/book/show/880196.Sozaboy)   and Visual [Studio Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) by [Matia Astorino](https://www.astorinomattia.com/)
+Duakana was inspired by Dukana, a fictitious town in the novel [Sozaboy](https://www.goodreads.com/book/show/880196.Sozaboy) and Visual [Studio Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) by [Matia Astorino](https://www.astorinomattia.com/)
 
 ## Authors
 
