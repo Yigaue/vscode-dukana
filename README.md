@@ -7,22 +7,22 @@ Developed with ❤️. This extension for Visual Studio Code adds the dark theme
 ## Dark (Royalty) Theme
 
 **Dark Royalty HTML**
-![HTML](images/royalty-html.png)
+![HTML](https://raw.githubusercontent.com/Yigaue/vscode-dukana/main/images/royalty-html.png)
 
 **Dark Royalty JavaScript**
-![JavaScript](images/royalty-javascript.png)
+![JavaScript](https://raw.githubusercontent.com/Yigaue/vscode-dukana/main/images/royalty-javascript.png)
 
 **Dark Royalty SCSS**
-![SCSS](images/royalty-scss.png)
+![SCSS](https://raw.githubusercontent.com/Yigaue/vscode-dukana/main/images/royalty-scss.png)
 
 **Dark Royalty PHP**
-![PHP](images/royalty-php.png)
+![PHP](https://raw.githubusercontent.com/Yigaue/vscode-dukana/main/images/royalty-php.png)
 
 **Dark Royalty Go**
-![Go](images/royalty-go.png)
+![Go](https://raw.githubusercontent.com/Yigaue/vscode-dukana/main/images/royalty-go.png)
 
 **Dark Royalty Java**
-![Java](images/royalty-java.png)
+![Java](https://raw.githubusercontent.com/Yigaue/vscode-dukana/main/images/royalty-java.png)
 
 ## Installation
 
