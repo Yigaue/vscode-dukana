@@ -19,7 +19,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dukana Theme (Royal)",
+        "label": "Dukana (Royal)",
         "uiTheme": "vs-dark",
         "path": "./themes/dukana-theme-color-theme.json"
       }

@@ -1,28 +1,28 @@
 # Dukana
 
-This extension for Visual Studio Code adds the dark theme titled "Dukana".
+Developed with ❤️. This extension for Visual Studio Code adds the dark theme titled "Dukana".
 
-> I have been using this theme for a while and it's been nice. The theme is still in it early version.
+> I have been using this theme for a while and it's nice on most screen. The theme is still in it early version.
 
-## Dark Blue Theme
+## Dark (Royalty) Theme
 
 **Dark Royalty HTML**
-![HTML](#)
+![HTML](images/royalty-html.png)
 
 **Dark Royalty JavaScript**
-![JavaScript](#)
-
-**Dark Royalty TypeScript**
-![TypeScript](#)
+![JavaScript](images/royalty-javascript.png)
 
 **Dark Royalty SCSS**
-![SCSS](#)
+![SCSS](images/royalty-scss.png)
 
-## Dark Black Theme
+**Dark Royalty PHP**
+![PHP](images/royalty-php.png)
 
-**Dark Black JavaScript**
-![Dark Black Theme](#)
+**Dark Royalty Go**
+![Go](images/royalty-go.png)
 
+**Dark Royalty Java**
+![Java](images/royalty-java.png)
 
 ## Installation
 
@@ -30,8 +30,39 @@ This extension for Visual Studio Code adds the dark theme titled "Dukana".
 2. Search for `Dukana`
 3. Click **Install**
 4. Click **Reload**
-5. File > Preferences > Color Theme > **Dukana (Royality)**
+5. File > Preferences > Color Theme > **Dukana (Royalty)**
 
+## Recommended Settings
+
+Follow the recommended settings for additional fun. You can tweak the theme as much as you wish.
+```
+{
+  "files.autoSave": "afterDelay",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontSize": 16,
+  "window.zoomLevel": 2,
+  "workbench.colorTheme": "Dukana (Royal)",
+  "redhat.telemetry.enabled": true,
+  "editor.fontLigatures": true,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.tabCompletion": "on",
+  "editor.suggestSelection": "first",
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": false,
+  "editor.formatOnSave": true,
+  "editor.letterSpacing": 0.2,
+  "editor.lineHeight": 22,
+  "editor.minimap.enabled": false,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "search.showLineNumbers": true,
+  "zenMode.centerLayout": false,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.autoIndent": "full",
+  "editor.cursorBlinking": "blink",
+  "editor.cursorStyle": "line",
+}
+```
 
 ## Feedback
 
