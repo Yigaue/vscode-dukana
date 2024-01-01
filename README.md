@@ -2,7 +2,7 @@
 
 Developed with ❤️. This extension for Visual Studio Code adds the dark theme titled "Dukana".
 
-> I have been using this theme for a while and it's nice on most screen. The theme is still in it early version.
+> I have been using this theme for a while and it's nice on most screens. The theme is still in it early version.
 
 ## Dark (Royalty) Theme
 
@@ -34,7 +34,7 @@ Developed with ❤️. This extension for Visual Studio Code adds the dark theme
 
 ## Recommended Settings
 
-Follow the recommended settings for additional fun. You can tweak the theme as much as you wish.
+Follow the recommended settings for a fun experience. You can tweak the theme as much as you wish.
 ```
 {
   "files.autoSave": "afterDelay",

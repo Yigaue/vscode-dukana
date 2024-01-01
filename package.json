@@ -1,37 +1,49 @@
 {
-  "name": "dukana",
-  "displayName": "Dukana Theme",
-  "description": "Dark theme for the work you love",
-  "version": "1.0.0",
-  "icon": "images/dukana-icon.png",
-  "license": "SEE LICENSE IN LICENSE.md",
-  "repository": {
+	"name": "dukana",
+	"displayName": "Dukana (Royal)",
+	"description": "Dark theme for the work you love.",
+	"version": "1.0.1",
+	"icon": "images/dukana-icon.png",
+	"license": "SEE LICENSE IN LICENSE.md",
+	"repository": {
 		"type": "git",
 		"url": "https://github.com/Yigaue/vscode-dukana.git"
 	},
-  "engines": {
-    "vscode": "^1.85.0"
-  },
-  "categories": [
-    "Themes",
-    "Other"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Dukana (Royal)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dukana-theme-color-theme.json"
-      }
-    ]
-  },
+	"engines": {
+		"vscode": "^1.85.0"
+	},
+	"categories": [
+		"Themes",
+		"Other"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Dukana (Royal)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dukana-theme-color-theme.json"
+			}
+		]
+	},
 	"publisher": "Gospel Lekia",
 	"keywords": [
 		"Theme",
 		"Dark Theme"
 	],
-  "galleryBanner": {
+	"galleryBanner": {
 		"color": "#22131d",
 		"theme": "dark"
+	},
+	"__metadata": {
+		"id": "e59e799d-db79-4497-beaa-1b51fadf89dc",
+		"publisherId": "d7edadf2-2fa9-4b1c-a90b-a28f9d91293d",
+		"publisherDisplayName": "lekiagospel",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": true,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1704066141267,
+		"pinned": false,
+		"preRelease": false
 	}
 }
