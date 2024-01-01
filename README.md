@@ -54,7 +54,6 @@ Follow the recommended settings for a fun experience. You can tweak the theme as
   "editor.letterSpacing": 0.2,
   "editor.lineHeight": 22,
   "editor.minimap.enabled": false,
-  "editor.multiCursorModifier": "ctrlCmd",
   "search.showLineNumbers": true,
   "zenMode.centerLayout": false,
   "editor.cursorSmoothCaretAnimation": "on",
