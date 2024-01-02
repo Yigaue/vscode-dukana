@@ -2,26 +2,26 @@
 
 Developed with ❤️. This extension for Visual Studio Code adds the dark theme titled "Dukana".
 
-> I have been using this theme for a while and it's nice on most screens. The theme is still in it early version.
+> I have been using this theme for a while and it's nice on most screens. The theme is still in its early version.
 
-## Dark (Royalty) Theme
+## Dark (Royal) Theme
 
-**Dark Royalty HTML**
+**Dark Royal HTML**
 ![HTML](https://raw.githubusercontent.com/Yigaue/vscode-dukana/main/images/royalty-html.png)
 
-**Dark Royalty JavaScript**
+**Dark Royal JavaScript**
 ![JavaScript](https://raw.githubusercontent.com/Yigaue/vscode-dukana/main/images/royalty-javascript.png)
 
-**Dark Royalty SCSS**
+**Dark Royal SCSS**
 ![SCSS](https://raw.githubusercontent.com/Yigaue/vscode-dukana/main/images/royalty-scss.png)
 
-**Dark Royalty PHP**
+**Dark Royal PHP**
 ![PHP](https://raw.githubusercontent.com/Yigaue/vscode-dukana/main/images/royalty-php.png)
 
-**Dark Royalty Go**
+**Dark Royal Go**
 ![Go](https://raw.githubusercontent.com/Yigaue/vscode-dukana/main/images/royalty-go.png)
 
-**Dark Royalty Java**
+**Dark Royal Java**
 ![Java](https://raw.githubusercontent.com/Yigaue/vscode-dukana/main/images/royalty-java.png)
 
 ## Installation
@@ -30,7 +30,7 @@ Developed with ❤️. This extension for Visual Studio Code adds the dark theme
 2. Search for `Dukana`
 3. Click **Install**
 4. Click **Reload**
-5. File > Preferences > Color Theme > **Dukana (Royalty)**
+5. File > Preferences > Color Theme > **Dukana (Royal)**
 
 ## Recommended Settings
 
