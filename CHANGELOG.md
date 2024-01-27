@@ -6,4 +6,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+## [1.1.5] - 2023-03-27
+
+### Changed
+  
+-Update theme display name
